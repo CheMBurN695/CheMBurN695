@@ -1,6 +1,6 @@
 [![CheMBurN's GitHub stats](https://github-readme-stats-git-master-pasindu-de-silvas-projects.vercel.app/api?username=CheMBurN695)](https://github.com/CheMBurN695/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats-git-master-pasindu-de-silvas-projects.vercel.app/api/top-langs/?username=CheMBurN695&size_weight=0.5&count_weight=0.5)](https://github.com/CheMBurN695/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-pasindu-de-silvas-projects.vercel.app/api/top-langs/?username=CheMBurN695&size_weight=0.5&count_weight=1.5)](https://github.com/CheMBurN695/github-readme-stats)
 <!--
 **CheMBurN695/CheMBurN695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
