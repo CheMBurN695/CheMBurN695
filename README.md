@@ -6,7 +6,7 @@
 
 <div align="center">
     <a href="https://github.com/CheMBurN695/github-readme-stats">
-        <img src="https://github-readme-stats-git-master-pasindu-de-silvas-projects.vercel.app/api/top-langs/?username=CheMBurN695&theme=cobalt&size_weight=0.2&count_weight=0&langs_count=6&hide=GLSL,c%2B%2B,objective-c%2B%2B,PHP,ShaderLab" alt="Top Languages">
+        <img src="https://github-readme-stats-git-master-pasindu-de-silvas-projects.vercel.app/api/top-langs/?username=CheMBurN695&layout=donut&theme=cobalt&size_weight=0.2&count_weight=0&langs_count=4&hide=GLSL,c%2B%2B,objective-c%2B%2B,PHP,ShaderLab" alt="Top Languages">
     </a>
 </div>
 <!--
