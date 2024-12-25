@@ -6,7 +6,7 @@
 
 <div align="center">
     <a href="https://github.com/CheMBurN695/github-readme-stats">
-        <img src="https://github-readme-stats-git-master-pasindu-de-silvas-projects.vercel.app/api/top-langs/?username=CheMBurN695&theme=cobalt&size_weight=0.2&count_weight=0&langs_count=8&hide=GLSL,Objective-C++,PHP" alt="Top Languages">
+        <img src="https://github-readme-stats-git-master-pasindu-de-silvas-projects.vercel.app/api/top-langs/?username=CheMBurN695&theme=cobalt&size_weight=0.2&count_weight=0&langs_count=6&hide=GLSL,Objective-C++,PHP" alt="Top Languages">
     </a>
 </div>
 <!--
