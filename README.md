@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats-git-master-pasindu-de-silvas-projects.vercel.app/api/top-langs/?username=CheMBurN695)](https://github.com/CheMBurN695/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-iota-83.vercel.app/api/top-langs/?username=CheMBurN695)](https://github.com/CheMBurN695/github-readme-stats)
 [![CheMBurN's GitHub stats](https://github-readme-stats-git-master-pasindu-de-silvas-projects.vercel.app/api?username=CheMBurN695)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/CheMBurN695/github-readme-stats/))
 
 <!--
