@@ -1,4 +1,4 @@
-[![CheMBurN's GitHub stats](https://github-readme-stats-git-master-pasindu-de-silvas-projects.vercel.app/api?username=CheMBurN695&include_all_commits)](https://github.com/CheMBurN695/github-readme-stats)  
+[![CheMBurN's GitHub stats](https://github-readme-stats-git-master-pasindu-de-silvas-projects.vercel.app/api?username=CheMBurN695&include_all_commits=true)](https://github.com/CheMBurN695/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats-git-master-pasindu-de-silvas-projects.vercel.app/api/top-langs/?username=CheMBurN695&size_weight=0.2&count_weight=0)](https://github.com/CheMBurN695/github-readme-stats)
 <!--
